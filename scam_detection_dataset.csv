@@ -1,0 +1,1002 @@
+﻿message_text,label,intent_type,flag_reason
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Unusual activity detected. Please login immediately at scamurl.com.,Scam,Phishing,Identified as Phishing
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your Amazon package has been dispatched.,Not Scam,Order Confirmation,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Your SIM card will be deactivated today. Verify immediately.,Scam,Fear Tactics,Identified as Fear Tactics
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+Your OTP is 123456. Share to verify your account.,Scam,OTP Fraud,Identified as OTP Fraud
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+"Pre-approved loan of ₹5,00,000. Apply instantly with zero documents.",Scam,Loan Scam,Identified as Loan Scam
+"Congratulations! You've won ₹50,000. Click to claim your prize.",Scam,Reward Manipulation,Identified as Reward Manipulation
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Get instant loan without credit check. Click here.,Scam,Loan Scam,Identified as Loan Scam
+Login required: https://fakebank-login.com to secure your funds.,Scam,Phishing,Identified as Phishing
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+"₹500 has been debited from your account. Available balance: ₹12,340.",Not Scam,Transactional Notification,Legitimate communication
+New summer collection live now at Myntra. Check it out!,Not Scam,Marketing Message,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Your Paytm account is suspended. Reactivate here.,Scam,Account Suspension,Identified as Account Suspension
+Police case filed against your name. Pay ₹5000 to stop it.,Scam,Fear Tactics,Identified as Fear Tactics
+Urgent! Your account will be blocked in 24 hours. Click here to verify.,Scam,Urgency,Identified as Urgency
+Do not share OTP with anyone. Except us: [OTP],Scam,OTP Fraud,Identified as OTP Fraud
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Act now! Your bank account is under threat.,Scam,Urgency,Identified as Urgency
+Your email has been successfully updated.,Not Scam,Account Update,Legitimate communication
+"Payment of ₹1,000 received from Paytm UPI.",Not Scam,Transactional Notification,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Reminder: Your gas cylinder booking is confirmed.,Not Scam,Service Reminder,Legitimate communication
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+You have been selected for a lucky draw reward. Register here.,Scam,Reward Manipulation,Identified as Reward Manipulation
+Get 40% off on your first Zomato order. Use code FIRST40.,Not Scam,Marketing Message,Legitimate communication
+We have restricted your UPI services. Update now.,Scam,Account Suspension,Identified as Account Suspension
+Government Grant Approved. Send your Aadhar number now.,Scam,Fake Authority,Identified as Fake Authority
+This is RBI. Your KYC is incomplete. Update at fakekyc.com.,Scam,Fake Authority,Identified as Fake Authority
+Your Aadhaar has been successfully linked with your PAN.,Not Scam,Informational Alert,Legitimate communication
+Power cut scheduled from 2 PM to 4 PM tomorrow.,Not Scam,Informational Alert,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Your broadband bill is due on 7 July. Pay now to avoid late fees.,Not Scam,Service Reminder,Legitimate communication
+Account password changed on 5 July at 3:45 PM.,Not Scam,Account Update,Legitimate communication
+Order #12456 has been shipped and will be delivered by 6 July.,Not Scam,Order Confirmation,Legitimate communication
+
